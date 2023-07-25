@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/JDBC/details.jsp" value="file://$PROJECT_DIR$/web/JDBC" />
+        <entry key="file://$PROJECT_DIR$/web/NewsBlogJSP/ProfileNews.jsp" value="file://$PROJECT_DIR$/web/NewsBlogJSP" />
+        <entry key="file://$PROJECT_DIR$/web/SprintJDBS_2/HomeShop.jsp" value="file://$PROJECT_DIR$/web/SprintJDBS_2" />
+        <entry key="file://$PROJECT_DIR$/web/SprintTask2-4/Sprint_Task2-4.jsp" value="file://$PROJECT_DIR$/web/SprintTask2-4" />
+        <entry key="file://$PROJECT_DIR$/web/SprintTask2-4/details.jsp" value="file://$PROJECT_DIR$/web/SprintTask2-4" />
+      </map>
+    </option>
+  </component>
+</project>
